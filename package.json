@@ -1,0 +1,15 @@
+{
+  "name": "schnell-zulassen-guetersloh",
+  "version": "1.0.0",
+  "description": "Prüft freigewordene Termine bei der Kfz-Zulassungsstelle Gütersloh und sendet eine Benachrichtigung.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  }
+}
